@@ -4,7 +4,7 @@ O **Ecoleta** é um projeto (aplicação web) construído no **Starter**, parte 
 
 A aplicação basea-se em um marketplace de coleta de resíduos, onde pessoas físicas e/ou jurídicas poderão encontrar pontos de coleta em qualquer lugar do Brasil.
 
-Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF}/municipios) e [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
+Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet) e [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
 
 Bibliotecas e tecnologias utilizadas:
 - HTML;
