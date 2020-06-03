@@ -4,18 +4,17 @@ O **Ecoleta** é um projeto (aplicação web) construída no **Starter**, parte 
 
 A aplicação basea-se em um marketplace de coleta de resíduos.
 
-**Primeira Adição do Projeto**
+**1ª AULA**
 
 Foi trabalho os primeiros conceitos de HTML e CSS, atualizando posteriormente com JS;
 ![first_and_second_steps](https://user-images.githubusercontent.com/62728109/83678452-2748cc00-a5b4-11ea-8c3b-7b11d47aaa07.jpg)
 
-**Segunda Adição do Projeto**
+**2ª AULA**
 
 Ainda trabalhando com HTML, CSS e JS aprendemos a buscar cidades e estados em um banco de dados puxando para a aplicação;
 ![aula2](https://user-images.githubusercontent.com/62728109/83678917-e43b2880-a5b4-11ea-84aa-b57b5bc7a2d7.png)
 
-
-**Terceira Adição do Projeto**
+**3ª AULA**
 
 Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais aprofundada e encerrando a aula em 3 etapas resolvidas;
 ![aula3](https://user-images.githubusercontent.com/62728109/83678626-6d9e2b00-a5b4-11ea-8ad4-03c955dcad5a.jpg)
