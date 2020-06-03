@@ -24,8 +24,3 @@ Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais apro
 **Quem está ministrando as aulas?**
 
 As aulas estão sendo ministradas pelo [Mayk Brito](https://github.com/maykbrito) da [Rocketseat](https://rocketseat.com.br/)
-
-![license](https://user-images.githubusercontent.com/62728109/83679163-4f84fa80-a5b5-11ea-8597-b09c4d781614.png)
-**License**
-
-O projeto está licenciado pelo MIT. Consulte "LICENCE" para maior detalhamento.
