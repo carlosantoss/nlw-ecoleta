@@ -9,7 +9,10 @@ Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/
 Bibliotecas e tecnologias utilizadas:
 - HTML;
 - CSS;
-- JavaScript.
+- JavaScript;
+- Node.JS;
+- Git Bash;
+- SQLite.
 
 ## **1ª Aula**
 
