@@ -26,6 +26,10 @@ Ainda trabalhando com HTML, CSS e incluindo JS, aprendemos a buscar cidades e es
 Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais aprofundada e encerrando a aula em 3 etapas resolvidas;
 ![aula3](https://user-images.githubusercontent.com/62728109/83678626-6d9e2b00-a5b4-11ea-8ad4-03c955dcad5a.jpg)
 
+## **4ª Aula**
+Na aula 4, foi dia de começar a entender na prática como funciona um backend. Conhecemos o node.js e criamos nosso servidor;
+![aula4](https://user-images.githubusercontent.com/62728109/83796845-0a75cc80-a678-11ea-8137-0c0ac548ac99.jpg)
+
 * *As próximas aulas serão atualizadas aqui na medida que forem acontecendo.* 
 
 ![quem_ministrou](https://user-images.githubusercontent.com/62728109/83679095-35e3b300-a5b5-11ea-940f-dc15b1e3e9bc.png)
