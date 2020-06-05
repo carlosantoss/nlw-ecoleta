@@ -15,22 +15,19 @@ Bibliotecas e tecnologias utilizadas:
 - SQLite.
 
 ## **1ª Aula**
-
-Foi trabalhado os primeiros conceitos de HTML e CSS;
+Foi trabalhado os primeiros conceitos de HTML e CSS, muito utilizado no front-end;
 ![first_and_second_steps](https://user-images.githubusercontent.com/62728109/83678452-2748cc00-a5b4-11ea-8c3b-7b11d47aaa07.jpg)
 
 ## **2ª Aula**
-
 Ainda trabalhando com HTML, CSS e incluindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
 ![aula2](https://user-images.githubusercontent.com/62728109/83678917-e43b2880-a5b4-11ea-84aa-b57b5bc7a2d7.png)
 
 ## **3ª Aula**
-
-Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais aprofundada e encerrando a aula em 3 etapas resolvidas;
+Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais aprofundada e encerrou-se a aula em 3 etapas concluidas;
 ![aula3](https://user-images.githubusercontent.com/62728109/83678626-6d9e2b00-a5b4-11ea-8ad4-03c955dcad5a.jpg)
 
 ## **4ª Aula**
-Na aula 4, foi dia de começar a entender na prática como funciona um backend. Conhecemos o node.js e criamos nosso servidor;
+Na aula 4, foi dia de começar a entender na prática como funciona o back-end. Conhecemos o node.js e criamos nosso servidor;
 ![aula4](https://user-images.githubusercontent.com/62728109/83796845-0a75cc80-a678-11ea-8137-0c0ac548ac99.jpg)
 
 ## **5ª Aula**
@@ -38,6 +35,6 @@ E para finalizar o projeto, importamos a dependência do SQLite para nossa aplic
 ![aula5](https://user-images.githubusercontent.com/62728109/83922344-8ba39100-a756-11ea-9abd-2aa39816d895.png)
 
 ![quem_ministrou](https://user-images.githubusercontent.com/62728109/83679095-35e3b300-a5b5-11ea-940f-dc15b1e3e9bc.png)
- **Quem está ministrou as aulas?**
+ **Quem ministrou as aulas?**
 
 As aulas foram ministradas pelo [Mayk Brito](https://github.com/maykbrito) da [Rocketseat](https://rocketseat.com.br/)
