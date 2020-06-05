@@ -19,7 +19,7 @@ Foi trabalhado os primeiros conceitos de HTML e CSS, muito utilizado no front-en
 ![first_and_second_steps](https://user-images.githubusercontent.com/62728109/83678452-2748cc00-a5b4-11ea-8c3b-7b11d47aaa07.jpg)
 
 ## **2ª Aula**
-Ainda trabalhando com HTML, CSS e incluindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
+Ainda trabalhando com HTML, CSS e inserindo JS, aprendemos a buscar cidades e estados (dados) em um database trazendo-os para a aplicação;
 ![aula2](https://user-images.githubusercontent.com/62728109/83678917-e43b2880-a5b4-11ea-84aa-b57b5bc7a2d7.png)
 
 ## **3ª Aula**
