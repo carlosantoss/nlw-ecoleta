@@ -33,9 +33,11 @@ Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais apro
 Na aula 4, foi dia de começar a entender na prática como funciona um backend. Conhecemos o node.js e criamos nosso servidor;
 ![aula4](https://user-images.githubusercontent.com/62728109/83796845-0a75cc80-a678-11ea-8137-0c0ac548ac99.jpg)
 
-* *As próximas aulas serão atualizadas aqui na medida que forem acontecendo.* 
+## **5ª Aula**
+E para finalizar o projeto, importamos a dependência do SQLite para nossa aplicação e fizemos toda a configuração do db (banco de dados).
+![aula5](https://user-images.githubusercontent.com/62728109/83922344-8ba39100-a756-11ea-9abd-2aa39816d895.png)
 
 ![quem_ministrou](https://user-images.githubusercontent.com/62728109/83679095-35e3b300-a5b5-11ea-940f-dc15b1e3e9bc.png)
- **Quem está ministrando as aulas?**
+ **Quem está ministrou as aulas?**
 
-As aulas estão sendo ministradas pelo [Mayk Brito](https://github.com/maykbrito) da [Rocketseat](https://rocketseat.com.br/)
+As aulas foram ministradas pelo [Mayk Brito](https://github.com/maykbrito) da [Rocketseat](https://rocketseat.com.br/)
