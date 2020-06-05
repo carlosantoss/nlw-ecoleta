@@ -4,8 +4,6 @@ O **Ecoleta** é um projeto (aplicação web) construído no **Starter**, parte 
 
 A aplicação basea-se em um marketplace de coleta de resíduos, onde pessoas físicas e/ou jurídicas poderão cadastrar e/ou encontrar pontos de coleta em qualquer lugar do Brasil.
 
-Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet) e [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
-
 Bibliotecas e tecnologias utilizadas:
 - HTML;
 - CSS;
@@ -13,6 +11,8 @@ Bibliotecas e tecnologias utilizadas:
 - Node.JS;
 - Git Bash;
 - SQLite.
+
+Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet) e [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
 
 ## **1ª Aula**
 Foi trabalhado os primeiros conceitos de HTML e CSS, muito utilizado no front-end;
